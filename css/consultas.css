@@ -255,7 +255,7 @@ input {
     " ... adversiting footer ... ";
 }
 
-.sidebar .botons {
+.botons {
   width: 100%;
   background: #1f53c5;
   border: none;
@@ -267,14 +267,13 @@ input {
 
 .botones {
   display: flex;
-  justify-content: space-between;
-  margin-top: 25px;
-}
-.boton2 {
   justify-content: center;
-  margin-left: 75px;
+  margin-bottom: 30px;
 }
 .boton1 {
-  justify-content: center;
-  margin-left: 150px;
+  margin-right: 20px;
+}
+
+.boton2 {
+  margin-left: 20px;
 }
