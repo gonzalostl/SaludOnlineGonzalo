@@ -28,6 +28,9 @@ body {
   justify-content: center;
   padding-bottom: 30px;
   background-color: #e2e1dc;
+  background: linear-gradient(to right, #edefef7d, #38d7f388),
+    url("/img/moimedico.jpg");
+  background-size: cover;
 }
 .container {
   position: relative;
