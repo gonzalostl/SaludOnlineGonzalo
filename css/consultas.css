@@ -258,6 +258,7 @@ input {
 .botons {
   width: 100%;
   background: #1f53c5;
+  border-radius: 10px;
   border: none;
   padding: 12px;
   color: white;
